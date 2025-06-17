@@ -1,0 +1,29 @@
+{
+    "name": "Rengga Pasha Yudha",
+    "description": "Focus on analog & digital electronics, embedded systems, and industrial automation; Trained in circuit design, microcontroller programming, and instrumentation; Equipped with hands-on lab experience and real-world troubleshooting skills.",
+    "profileImage": "images/profil.jpg",
+    "email": "renggayudha101@gmail.com",
+    "phone": "+62(812)35284477",
+    "socialMedia": [
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/CingGabut"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Electronic Engineering", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Teamwork", "icon": "fas fa-pen", "level": 90},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+    ]
+}
